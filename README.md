@@ -1,4 +1,8 @@
-# To write a python program to perform random classification.
+### EX NO:01
+### DATE: 04.04.2022
+# <p align="center">RANDOM CLASSIFICATION<p/>
+## AIM:
+To write a python program to perform random classification.
 
 ## EQUIPMENTS REQUIRED:
 1. Hardware – PCs
@@ -15,11 +19,16 @@
 3. Each decision tree will generate an output.
 4. Final output is considered based on Majority Voting or Averaging for Classification and regression respectively.
 
+<br>
+<br> 
+<br>
+<br>
+
 ## PROGRAM:
 ```python
 
 #Program to implement random classification.
-#Developed by   : Eluru Ganesh
+#Developed by   : ELURU GANESH
 #Register Number : 212220230016
 
 
@@ -35,7 +44,7 @@ plt.title('Random Classification Data with 2 classes')
 ```
 
 ## OUTPUT:
-![Image](https://github.com/Ganesh517/Random-Classification/blob/main/e1.png)
+<img width="505" alt="output" src="https://user-images.githubusercontent.com/75234991/163532920-70581c32-b131-41bb-8f9e-d7bf011bf901.png">
 
 ## RESULT:
 Thus the random classifier was successfully implemented using python programming.
