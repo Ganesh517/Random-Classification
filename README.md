@@ -24,12 +24,11 @@ To write a python program to perform random classification.
 <br>
 <br>
 
-
 ## PROGRAM:
 ```python
 
 #Program to implement random classification.
-#Developed by   : GANESH
+#Developed by   : ELURU GANESH
 #Register Number : 212220230016
 
 
@@ -49,3 +48,4 @@ plt.title('Random Classification Data with 2 classes')
 
 ## RESULT:
 Thus the random classifier was successfully implemented using python programming.
+
