@@ -24,11 +24,12 @@ To write a python program to perform random classification.
 <br>
 <br>
 
+
 ## PROGRAM:
 ```python
 
 #Program to implement random classification.
-#Developed by   : ELURU GANESH
+#Developed by   : GANESH
 #Register Number : 212220230016
 
 
