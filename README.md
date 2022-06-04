@@ -28,7 +28,7 @@ To write a python program to perform random classification.
 ```python
 
 #Program to implement random classification.
-#Developed by   : GANESH
+#Developed by   : ELURU GANESH
 #Register Number : 212220230016
 
 
